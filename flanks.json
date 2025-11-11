@@ -1,0 +1,14 @@
+[
+    {
+        "id": "left",
+        "alt_id": "3prime",
+        "target": "r255x",
+        "seq": "GGGCCGUCCU"
+    },
+    {
+        "id": "right",
+        "alt_id": "5prime",
+        "target": "r255x",
+        "seq": "ACUCCGGCUG"
+    }
+]
