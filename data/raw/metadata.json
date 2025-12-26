@@ -1,0 +1,578 @@
+[
+    {
+        "file": "a1gg_r1.ab1",
+        "attr": "Prince",
+        "date": "n/a",
+        "name": "CTD1 AD1, GG-mismatch, rep 1"
+    },
+    {
+        "file": "a1gg_r3.ab1",
+        "attr": "Prince",
+        "date": "n/a",
+        "name": "CTD1 AD1, GG-mismatch, rep 3"
+    },
+    {
+        "file": "a1p1_r1.ab1",
+        "attr": "Prince",
+        "date": "n/a",
+        "name": "CTD1 AD1, guide 1, rep 1"
+    },
+    {
+        "file": "a1p1_r3.ab1",
+        "attr": "Prince",
+        "date": "n/a",
+        "name": "CTD1 AD1, guide 1, rep 3"
+    },
+    {
+        "file": "a1p2_r1.ab1",
+        "attr": "Prince",
+        "date": "n/a",
+        "name": "CTD1 AD1, guide 2, rep 1"
+    },
+    {
+        "file": "a1p2_r3.ab1",
+        "attr": "Prince",
+        "date": "n/a",
+        "name": "CTD1 AD1, guide 2, rep 3"
+    },
+    {
+        "file": "a1p3_r1.ab1",
+        "attr": "Prince",
+        "date": "n/a",
+        "name": "CTD1 AD1, guide 3, rep 1"
+    },
+    {
+        "file": "a1p3_r3.ab1",
+        "attr": "Prince",
+        "date": "n/a",
+        "name": "CTD1 AD1, guide 3, rep 3"
+    },
+    {
+        "file": "a1p4_r1.ab1",
+        "attr": "Prince",
+        "date": "n/a",
+        "name": "CTD1 AD1, guide 4, rep 1"
+    },
+    {
+        "file": "a1p4_r3.ab1",
+        "attr": "Prince",
+        "date": "n/a",
+        "name": "CTD1 AD1, guide 4, rep 3"
+    },
+    {
+        "file": "a1p5_r1.ab1",
+        "attr": "Prince",
+        "date": "n/a",
+        "name": "CTD1 AD1, guide 5, rep 1"
+    },
+    {
+        "file": "a1p5_r3.ab1",
+        "attr": "Prince",
+        "date": "n/a",
+        "name": "CTD1 AD1, guide 5, rep 3"
+    },
+    {
+        "file": "a1p6_r1.ab1",
+        "attr": "Prince",
+        "date": "n/a",
+        "name": "CTD1 AD1, guide 6, rep 1"
+    },
+    {
+        "file": "a1p6_r3.ab1",
+        "attr": "Prince",
+        "date": "n/a",
+        "name": "CTD1 AD1, guide 6, rep 3"
+    },
+    {
+        "file": "a1p7_r1.ab1",
+        "attr": "Prince",
+        "date": "n/a",
+        "name": "CTD1 AD1, guide 7, rep 1"
+    },
+    {
+        "file": "a1p7_r3.ab1",
+        "attr": "Prince",
+        "date": "n/a",
+        "name": "CTD1 AD1, guide 7, rep 3"
+    },
+    {
+        "file": "a1p8_r1.ab1",
+        "attr": "Prince",
+        "date": "n/a",
+        "name": "CTD1 AD1, guide 8, rep 1"
+    },
+    {
+        "file": "a1p8_r3.ab1",
+        "attr": "Prince",
+        "date": "n/a",
+        "name": "CTD1 AD1, guide 8, rep 3"
+    },
+    {
+        "file": "a1p9_r1.ab1",
+        "attr": "Prince",
+        "date": "n/a",
+        "name": "CTD1 AD1, guide 9, rep 1"
+    },
+    {
+        "file": "a1p9_r3.ab1",
+        "attr": "Prince",
+        "date": "n/a",
+        "name": "CTD1 AD1, guide 9, rep 3"
+    },
+    {
+        "file": "a1p10_r1.ab1",
+        "attr": "Prince",
+        "date": "n/a",
+        "name": "CTD1 AD1, guide 10, rep 1"
+    },
+    {
+        "file": "a2gg_r1.ab1",
+        "attr": "Prince",
+        "date": "n/a",
+        "name": "CTD1 AD2, GG-mismatch, rep 1"
+    },
+    {
+        "file": "a2gg_r3.ab1",
+        "attr": "Prince",
+        "date": "n/a",
+        "name": "CTD1 AD2, GG-mismatch, rep 3"
+    },
+    {
+        "file": "a2p1_r1.ab1",
+        "attr": "Prince",
+        "date": "n/a",
+        "name": "CTD1 AD2, guide 1, rep 1"
+    },
+    {
+        "file": "a2p1_r3.ab1",
+        "attr": "Prince",
+        "date": "n/a",
+        "name": "CTD1 AD2, guide 1, rep 3"
+    },
+    {
+        "file": "a2p2_r1.ab1",
+        "attr": "Prince",
+        "date": "n/a",
+        "name": "CTD1 AD2, guide 2, rep 1"
+    },
+    {
+        "file": "a2p2_r3.ab1",
+        "attr": "Prince",
+        "date": "n/a",
+        "name": "CTD1 AD2, guide 2, rep 3"
+    },
+    {
+        "file": "a2p3_r1.ab1",
+        "attr": "Prince",
+        "date": "n/a",
+        "name": "CTD1 AD2, guide 3, rep 1"
+    },
+    {
+        "file": "a2p3_r3.ab1",
+        "attr": "Prince",
+        "date": "n/a",
+        "name": "CTD1 AD2, guide 3, rep 3"
+    },
+    {
+        "file": "a2p4_r1.ab1",
+        "attr": "Prince",
+        "date": "n/a",
+        "name": "CTD1 AD2, guide 4, rep 1"
+    },
+    {
+        "file": "a2p4_r3.ab1",
+        "attr": "Prince",
+        "date": "n/a",
+        "name": "CTD1 AD2, guide 4, rep 3"
+    },
+    {
+        "file": "a2p5_r1.ab1",
+        "attr": "Prince",
+        "date": "n/a",
+        "name": "CTD1 AD2, guide 5, rep 1"
+    },
+    {
+        "file": "a2p5_r3.ab1",
+        "attr": "Prince",
+        "date": "n/a",
+        "name": "CTD1 AD2, guide 5, rep 3"
+    },
+    {
+        "file": "a2p6_r1.ab1",
+        "attr": "Prince",
+        "date": "n/a",
+        "name": "CTD1 AD2, guide 6, rep 1"
+    },
+    {
+        "file": "a2p6_r3.ab1",
+        "attr": "Prince",
+        "date": "n/a",
+        "name": "CTD1 AD2, guide 6, rep 3"
+    },
+    {
+        "file": "a2p7_r1.ab1",
+        "attr": "Prince",
+        "date": "n/a",
+        "name": "CTD1 AD2, guide 7, rep 1"
+    },
+    {
+        "file": "a2p7_r3.ab1",
+        "attr": "Prince",
+        "date": "n/a",
+        "name": "CTD1 AD2, guide 7, rep 3"
+    },
+    {
+        "file": "a2p8_r1.ab1",
+        "attr": "Prince",
+        "date": "n/a",
+        "name": "CTD1 AD2, guide 8, rep 1"
+    },
+    {
+        "file": "a2p8_r3.ab1",
+        "attr": "Prince",
+        "date": "n/a",
+        "name": "CTD1 AD2, guide 8, rep 3"
+    },
+    {
+        "file": "a2p9_r1.ab1",
+        "attr": "Prince",
+        "date": "n/a",
+        "name": "CTD1 AD2, guide 9, rep 1"
+    },
+    {
+        "file": "a2p9_r3.ab1",
+        "attr": "Prince",
+        "date": "n/a",
+        "name": "CTD1 AD2, guide 9, rep 3"
+    },
+    {
+        "file": "a2p10_r1.ab1",
+        "attr": "Prince",
+        "date": "n/a",
+        "name": "CTD1 AD2, guide 10, rep 1"
+    },
+    {
+        "file": "a2p10_r3.ab1",
+        "attr": "Prince",
+        "date": "n/a",
+        "name": "CTD1 AD2, guide 10, rep 3"
+    },
+    {
+        "file": "ac_r1.ab1",
+        "attr": "Natalie",
+        "date": "n/a",
+        "name": "R255X AD2, AC-mismatch, rep 1"
+    },
+    {
+        "file": "ac_r2.ab1",
+        "attr": "Natalie",
+        "date": "n/a",
+        "name": "R255X AD2, AC-mismatch, rep 2"
+    },
+    {
+        "file": "ac_r3.ab1",
+        "attr": "Natalie",
+        "date": "n/a",
+        "name": "R255X AD2, AC-mismatch, rep 3"
+    },
+    {
+        "file": "gg_r1.ab1",
+        "attr": "Natalie",
+        "date": "n/a",
+        "name": "R255X AD2, GG-mismatch, rep 1"
+    },
+    {
+        "file": "gg_r2.ab1",
+        "attr": "Natalie",
+        "date": "n/a",
+        "name": "R255X AD2, GG-mismatch, rep 2"
+    },
+    {
+        "file": "gg_r3.ab1",
+        "attr": "Natalie",
+        "date": "n/a",
+        "name": "R255X AD2, GG-mismatch, rep 3"
+    },
+    {
+        "file": "nd1_r1.ab1",
+        "attr": "Natalie",
+        "date": "n/a",
+        "name": "R255X AD2, guide ND1, rep 1"
+    },
+    {
+        "file": "nd1_r2.ab1",
+        "attr": "Natalie",
+        "date": "n/a",
+        "name": "R255X AD2, guide ND1, rep 2"
+    },
+    {
+        "file": "nd1_r3.ab1",
+        "attr": "Natalie",
+        "date": "n/a",
+        "name": "R255X AD2, guide ND1, rep 3"
+    },
+    {
+        "file": "nd2_r1.ab1",
+        "attr": "Natalie",
+        "date": "n/a",
+        "name": "R255X AD2, guide ND2, rep 1"
+    },
+    {
+        "file": "nd2_r2.ab1",
+        "attr": "Natalie",
+        "date": "n/a",
+        "name": "R255X AD2, guide ND2, rep 2"
+    },
+    {
+        "file": "nd2_r3.ab1",
+        "attr": "Natalie",
+        "date": "n/a",
+        "name": "R255X AD2, guide ND2, rep 3"
+    },
+    {
+        "file": "nd3_r1.ab1",
+        "attr": "Natalie",
+        "date": "n/a",
+        "name": "R255X AD2, guide ND3, rep 1"
+    },
+    {
+        "file": "nd3_r2.ab1",
+        "attr": "Natalie",
+        "date": "n/a",
+        "name": "R255X AD2, guide ND3, rep 2"
+    },
+    {
+        "file": "nd3_r3.ab1",
+        "attr": "Natalie",
+        "date": "n/a",
+        "name": "R255X AD2, guide ND3, rep 3"
+    },
+    {
+        "file": "nd4_r1.ab1",
+        "attr": "Natalie",
+        "date": "n/a",
+        "name": "R255X AD2, guide ND4, rep 1"
+    },
+    {
+        "file": "nd4_r2.ab1",
+        "attr": "Natalie",
+        "date": "n/a",
+        "name": "R255X AD2, guide ND4, rep 2"
+    },
+    {
+        "file": "nd4_r3.ab1",
+        "attr": "Natalie",
+        "date": "n/a",
+        "name": "R255X AD2, guide ND4, rep 3"
+    },
+    {
+        "file": "nd5_r1.ab1",
+        "attr": "Natalie",
+        "date": "n/a",
+        "name": "R255X AD2, guide ND5, rep 1"
+    },
+    {
+        "file": "nd5_r2.ab1",
+        "attr": "Natalie",
+        "date": "n/a",
+        "name": "R255X AD2, guide ND5, rep 2"
+    },
+    {
+        "file": "nd5_r3.ab1",
+        "attr": "Natalie",
+        "date": "n/a",
+        "name": "R255X AD2, guide ND5, rep 3"
+    },
+    {
+        "file": "nd6_r1.ab1",
+        "attr": "Natalie",
+        "date": "n/a",
+        "name": "R255X AD2, guide ND6, rep 1"
+    },
+    {
+        "file": "nd6_r2.ab1",
+        "attr": "Natalie",
+        "date": "n/a",
+        "name": "R255X AD2, guide ND6, rep 2"
+    },
+    {
+        "file": "nd6_r3.ab1",
+        "attr": "Natalie",
+        "date": "n/a",
+        "name": "R255X AD2, guide ND6, rep 3"
+    },
+    {
+        "file": "nd7_r1.ab1",
+        "attr": "Natalie",
+        "date": "n/a",
+        "name": "R255X AD2, guide ND7, rep 1"
+    },
+    {
+        "file": "nd7_r2.ab1",
+        "attr": "Natalie",
+        "date": "n/a",
+        "name": "R255X AD2, guide ND7, rep 2"
+    },
+    {
+        "file": "nd7_r3.ab1",
+        "attr": "Natalie",
+        "date": "n/a",
+        "name": "R255X AD2, guide ND7, rep 3"
+    },
+    {
+        "file": "nd8_r1.ab1",
+        "attr": "Natalie",
+        "date": "n/a",
+        "name": "R255X AD2, guide ND8, rep 1"
+    },
+    {
+        "file": "nd8_r2.ab1",
+        "attr": "Natalie",
+        "date": "n/a",
+        "name": "R255X AD2, guide ND8, rep 2"
+    },
+    {
+        "file": "nd8_r3.ab1",
+        "attr": "Natalie",
+        "date": "n/a",
+        "name": "R255X AD2, guide ND8, rep 3"
+    },
+    {
+        "file": "nd9_r1.ab1",
+        "attr": "Natalie",
+        "date": "n/a",
+        "name": "R255X AD2, guide ND9, rep 1"
+    },
+    {
+        "file": "nd9_r2.ab1",
+        "attr": "Natalie",
+        "date": "n/a",
+        "name": "R255X AD2, guide ND9, rep 2"
+    },
+    {
+        "file": "nd9_r3.ab1",
+        "attr": "Natalie",
+        "date": "n/a",
+        "name": "R255X AD2, guide ND9, rep 3"
+    },
+    {
+        "file": "nd10_r1.ab1",
+        "attr": "Natalie",
+        "date": "n/a",
+        "name": "R255X AD2, guide ND10, rep 1"
+    },
+    {
+        "file": "nd10_r2.ab1",
+        "attr": "Natalie",
+        "date": "n/a",
+        "name": "R255X AD2, guide ND10, rep 2"
+    },
+    {
+        "file": "nd10_r3.ab1",
+        "attr": "Natalie",
+        "date": "n/a",
+        "name": "R255X AD2, guide ND10, rep 3"
+    },
+    {
+        "file": "nd10_r4.ab1",
+        "attr": "Natalie",
+        "date": "n/a",
+        "name": "R255X AD2, guide ND10, rep 4"
+    },
+    {
+        "file": "nd10_r5.ab1",
+        "attr": "Natalie",
+        "date": "n/a",
+        "name": "R255X AD2, guide ND10, rep 5"
+    },
+    {
+        "file": "nd11_r1.ab1",
+        "attr": "Natalie",
+        "date": "n/a",
+        "name": "R255X AD2, guide ND11, rep 1"
+    },
+    {
+        "file": "nd11_r2.ab1",
+        "attr": "Natalie",
+        "date": "n/a",
+        "name": "R255X AD2, guide ND11, rep 2"
+    },
+    {
+        "file": "nd11_r3.ab1",
+        "attr": "Natalie",
+        "date": "n/a",
+        "name": "R255X AD2, guide ND11, rep 3"
+    },
+    {
+        "file": "nd12_r1.ab1",
+        "attr": "Natalie",
+        "date": "n/a",
+        "name": "R255X AD2, guide ND12, rep 1"
+    },
+    {
+        "file": "nd12_r2.ab1",
+        "attr": "Natalie",
+        "date": "n/a",
+        "name": "R255X AD2, guide ND12, rep 2"
+    },
+    {
+        "file": "nd12_r3.ab1",
+        "attr": "Natalie",
+        "date": "n/a",
+        "name": "R255X AD2, guide ND12, rep 3"
+    },
+    {
+        "file": "nd13_r1.ab1",
+        "attr": "Natalie",
+        "date": "n/a",
+        "name": "R255X AD2, guide ND13, rep 1"
+    },
+    {
+        "file": "nd13_r2.ab1",
+        "attr": "Natalie",
+        "date": "n/a",
+        "name": "R255X AD2, guide ND13, rep 2"
+    },
+    {
+        "file": "nd13_r3.ab1",
+        "attr": "Natalie",
+        "date": "n/a",
+        "name": "R255X AD2, guide ND13, rep 3"
+    },
+    {
+        "file": "nd14_r1.ab1",
+        "attr": "Natalie",
+        "date": "n/a",
+        "name": "R255X AD2, guide ND14, rep 1"
+    },
+    {
+        "file": "nd14_r2.ab1",
+        "attr": "Natalie",
+        "date": "n/a",
+        "name": "R255X AD2, guide ND14, rep 2"
+    },
+    {
+        "file": "nd14_r3.ab1",
+        "attr": "Natalie",
+        "date": "n/a",
+        "name": "R255X AD2, guide ND14, rep 3"
+    },
+    {
+        "file": "nd14_r4.ab1",
+        "attr": "Natalie",
+        "date": "n/a",
+        "name": "R255X AD2, guide ND14, rep 4"
+    },
+    {
+        "file": "nd14_r5.ab1",
+        "attr": "Natalie",
+        "date": "n/a",
+        "name": "R255X AD2, guide ND14, rep 5"
+    },
+    {
+        "file": "nd14_r6.ab1",
+        "attr": "Natalie",
+        "date": "n/a",
+        "name": "R255X AD2, guide ND14, rep 6"
+    }
+]
