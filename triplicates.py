@@ -9,6 +9,7 @@ class Triplicate:
     def __init__(
         self,
         target_id: str,
+        guide_id: str,
         handlers: list[SangerHandler]
     ):
         dfs = [handler.df for handler in handlers]
@@ -61,6 +62,9 @@ class Triplicate:
         ]
         self.df_small = self.df[small_cols]
 
+        self.target_id = target_id
+        self.guide_id = guide_id
+
     @staticmethod
     def determine_edit_status(df, alpha_0=0.05):
         df.copy(deep=True)
@@ -84,3 +88,10 @@ class Triplicate:
         qc_all = (qc == 1).any(axis=1).astype(int)
         qc_all[nan_mask] = np.nan
         return qc_all
+
+    def to_csv(self, small=False):
+        outfile = f'{self.target_id}_{self.guide_id}'
+        if small:
+            self.df_small.to_csv(f'{outfile}_small.csv', index=False)
+        else:
+            self.df.to_csv(f'{outfile}.csv', index=False)
